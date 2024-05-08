@@ -1,0 +1,924 @@
+Starting with distance:  3
+Starting with error rate:  0.01
+Distance: 3, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0536
+Distance: 3, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0520
+Distance: 3, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0665
+Distance: 3, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0675
+Distance: 3, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0407
+Distance: 3, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0586
+Distance: 3, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0737
+Distance: 3, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0747
+Distance: 3, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0460
+Distance: 3, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0456
+Distance: 3, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0661
+Distance: 3, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0656
+Distance: 3, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0302
+Distance: 3, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0387
+Distance: 3, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0667
+Distance: 3, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0687
+Distance: 3, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0687
+Best Accuracy:  0.9982758620689656 Best Hyperparameters {'distance': 3, 'error_rate': 0.01, 'hidden_size': 16, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0001}
+Starting with error rate:  0.02
+Distance: 3, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0705
+Distance: 3, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0704
+Distance: 3, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0758
+Distance: 3, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0759
+Distance: 3, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0574
+Distance: 3, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0655
+Distance: 3, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0859
+Distance: 3, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0853
+Distance: 3, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0590
+Distance: 3, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0577
+Distance: 3, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0752
+Distance: 3, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0758
+Distance: 3, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0462
+Distance: 3, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0522
+Distance: 3, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0821
+Distance: 3, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0832
+Distance: 3, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0832
+Best Accuracy:  0.9810344827586207 Best Hyperparameters {'distance': 3, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 2, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with distance:  4
+Starting with error rate:  0.01
+Distance: 4, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0359
+Distance: 4, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0368
+Distance: 4, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0497
+Distance: 4, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0483
+Distance: 4, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0246
+Distance: 4, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0359
+Distance: 4, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0510
+Distance: 4, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0525
+Distance: 4, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0341
+Distance: 4, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0350
+Distance: 4, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0467
+Distance: 4, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0471
+Distance: 4, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0144
+Distance: 4, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0249
+Distance: 4, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0479
+Distance: 4, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0507
+Distance: 4, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0507
+Best Accuracy:  0.9921052631578947 Best Hyperparameters {'distance': 4, 'error_rate': 0.01, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0001}
+Starting with error rate:  0.02
+Distance: 4, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0807
+Distance: 4, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0761
+Distance: 4, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0996
+Distance: 4, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0990
+Distance: 4, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0537
+Distance: 4, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0813
+Distance: 4, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.1037
+Distance: 4, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1035
+Distance: 4, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0741
+Distance: 4, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0710
+Distance: 4, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0954
+Distance: 4, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0953
+Distance: 4, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0334
+Distance: 4, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0575
+Distance: 4, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0959
+Distance: 4, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0973
+Distance: 4, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0973
+Best Accuracy:  0.993859649122807 Best Hyperparameters {'distance': 4, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0001}
+Starting with distance:  5
+Starting with error rate:  0.01
+Distance: 5, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0329
+Distance: 5, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0305
+Distance: 5, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0412
+Distance: 5, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0414
+Distance: 5, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0284
+Distance: 5, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0309
+Distance: 5, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0479
+Distance: 5, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0500
+Distance: 5, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0294
+Distance: 5, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0303
+Distance: 5, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0404
+Distance: 5, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0403
+Distance: 5, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0286
+Distance: 5, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0140
+Distance: 5, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0433
+Distance: 5, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0443
+Distance: 5, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0443
+Best Accuracy:  0.9893258426966293 Best Hyperparameters {'distance': 5, 'error_rate': 0.01, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with error rate:  0.02
+Distance: 5, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0599
+Distance: 5, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0708
+Distance: 5, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0802
+Distance: 5, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0820
+Distance: 5, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0489
+Distance: 5, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0634
+Distance: 5, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0904
+Distance: 5, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0987
+Distance: 5, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0613
+Distance: 5, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0601
+Distance: 5, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0792
+Distance: 5, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0808
+Distance: 5, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0385
+Distance: 5, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0299
+Distance: 5, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0937
+Distance: 5, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0933
+Distance: 5, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0933
+Best Accuracy:  0.9865168539325843 Best Hyperparameters {'distance': 5, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+best_accuracy, best_hyperparameters
+0.9865168539325843 {'distance': 5, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with distance:  6
+Starting with error rate:  0.01
+Distance: 6, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0353
+Distance: 6, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0354
+Distance: 6, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0451
+Distance: 6, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0453
+Distance: 6, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0287
+Distance: 6, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0213
+Distance: 6, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0528
+Distance: 6, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0509
+Distance: 6, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0317
+Distance: 6, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0311
+Distance: 6, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0424
+Distance: 6, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0419
+Distance: 6, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0297
+Distance: 6, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0216
+Distance: 6, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0463
+Distance: 6, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0458
+Distance: 6, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0458
+Best Accuracy:  0.9924812030075187 Best Hyperparameters {'distance': 6, 'error_rate': 0.01, 'hidden_size': 16, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with error rate:  0.02
+Distance: 6, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0622
+Distance: 6, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0643
+Distance: 6, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0846
+Distance: 6, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0868
+Distance: 6, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0490
+Distance: 6, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0459
+Distance: 6, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0937
+Distance: 6, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0999
+Distance: 6, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0618
+Distance: 6, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0605
+Distance: 6, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0831
+Distance: 6, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0813
+Distance: 6, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0384
+Distance: 6, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0371
+Distance: 6, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0867
+Distance: 6, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0921
+Distance: 6, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0921
+Best Accuracy:  0.9894736842105263 Best Hyperparameters {'distance': 6, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with distance:  7
+Starting with error rate:  0.01
+Distance: 7, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0324
+Distance: 7, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0348
+Distance: 7, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0476
+Distance: 7, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0467
+Distance: 7, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0343
+Distance: 7, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0216
+Distance: 7, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0514
+Distance: 7, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0513
+Distance: 7, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0296
+Distance: 7, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0317
+Distance: 7, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0459
+Distance: 7, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0445
+Distance: 7, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0246
+Distance: 7, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0129
+Distance: 7, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0435
+Distance: 7, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0439
+Distance: 7, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0439
+Best Accuracy:  0.992817679558011 Best Hyperparameters {'distance': 7, 'error_rate': 0.01, 'hidden_size': 16, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with error rate:  0.02
+Distance: 7, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0660
+Distance: 7, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0660
+Distance: 7, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0860
+Distance: 7, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0849
+Distance: 7, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0426
+Distance: 7, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0446
+Distance: 7, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0906
+Distance: 7, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0872
+Distance: 7, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0603
+Distance: 7, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0628
+Distance: 7, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0791
+Distance: 7, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0810
+Distance: 7, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0426
+Distance: 7, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0405
+Distance: 7, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0751
+Distance: 7, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0830
+Distance: 7, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0830
+Best Accuracy:  0.9925414364640884 Best Hyperparameters {'distance': 7, 'error_rate': 0.02, 'hidden_size': 16, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with distance:  8
+Starting with error rate:  0.01
+Distance: 8, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0305
+Distance: 8, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0307
+Distance: 8, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0437
+Distance: 8, Error Rate: 0.01, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0428
+Distance: 8, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0177
+Distance: 8, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0202
+Distance: 8, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0448
+Distance: 8, Error Rate: 0.01, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0441
+Distance: 8, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0275
+Distance: 8, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0273
+Distance: 8, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0412
+Distance: 8, Error Rate: 0.01, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0416
+Distance: 8, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0165
+Distance: 8, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0144
+Distance: 8, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0419
+Distance: 8, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0465
+Distance: 8, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0465
+Best Accuracy:  0.9946058091286307 Best Hyperparameters {'distance': 8, 'error_rate': 0.01, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with error rate:  0.02
+Distance: 8, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0635
+Distance: 8, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0624
+Distance: 8, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0849
+Distance: 8, Error Rate: 0.02, Hidden Size: 16, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0834
+Distance: 8, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0420
+Distance: 8, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0376
+Distance: 8, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0863
+Distance: 8, Error Rate: 0.02, Hidden Size: 16, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0832
+Distance: 8, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0564
+Distance: 8, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0610
+Distance: 8, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0782
+Distance: 8, Error Rate: 0.02, Hidden Size: 32, Num Layers: 2, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0791
+Distance: 8, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0246
+Distance: 8, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0298
+Distance: 8, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0001, Epoch: 100, Loss: 0.0801
+Distance: 8, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0799
+Distance: 8, Error Rate: 0.02, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0799
+Best Accuracy:  0.9933609958506224 Best Hyperparameters {'distance': 8, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0001}
+best_accuracy, best_hyperparameters
+0.9933609958506224 {'distance': 8, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0001}
+
+Best Accuracy:  0.9982758620689656 Best Hyperparameters {'distance': 3, 'error_rate': 0.01, 'hidden_size': 16, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0001}
+Best Accuracy:  0.9946058091286307 Best Hyperparameters {'distance': 8, 'error_rate': 0.01, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.993859649122807 Best Hyperparameters {'distance': 4, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0001}
+Best Accuracy:  0.9933609958506224 Best Hyperparameters {'distance': 8, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0001}
+Best Accuracy:  0.992817679558011 Best Hyperparameters {'distance': 7, 'error_rate': 0.01, 'hidden_size': 16, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9925414364640884 Best Hyperparameters {'distance': 7, 'error_rate': 0.02, 'hidden_size': 16, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9924812030075187 Best Hyperparameters {'distance': 6, 'error_rate': 0.01, 'hidden_size': 16, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9921052631578947 Best Hyperparameters {'distance': 4, 'error_rate': 0.01, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0001}
+Best Accuracy:  0.9894736842105263 Best Hyperparameters {'distance': 6, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9893258426966293 Best Hyperparameters {'distance': 5, 'error_rate': 0.01, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9865168539325843 Best Hyperparameters {'distance': 5, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9810344827586207 Best Hyperparameters {'distance': 3, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 2, 'lr': 0.01, 'weight_decay': 0.0005}
+
+Starting with distance:  9
+Starting with error rate:  0.01
+Distance: 9, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0143
+Distance: 9, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0191
+Distance: 9, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0397
+Distance: 9, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0319
+Distance: 9, Error Rate: 0.01, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0150
+Distance: 9, Error Rate: 0.01, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0120
+Distance: 9, Error Rate: 0.01, Hidden Size: 32, Num Layers: 4, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0338
+Distance: 9, Error Rate: 0.01, Hidden Size: 32, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0406
+Distance: 9, Error Rate: 0.01, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0135
+Distance: 9, Error Rate: 0.01, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0099
+Distance: 9, Error Rate: 0.01, Hidden Size: 64, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0329
+Distance: 9, Error Rate: 0.01, Hidden Size: 64, Num Layers: 3, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0274
+Distance: 9, Error Rate: 0.01, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0064
+Distance: 9, Error Rate: 0.01, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0059
+Distance: 9, Error Rate: 0.01, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0262
+Distance: 9, Error Rate: 0.01, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0244
+Distance: 9, Error Rate: 0.01, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0244
+Best Accuracy:  0.9973770491803279 Best Hyperparameters {'distance': 9, 'error_rate': 0.01, 'hidden_size': 64, 'num_layers': 4, 'lr': 0.01, 'weight_decay': 0.0008}
+Starting with error rate:  0.001
+Distance: 9, Error Rate: 0.001, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0028
+Distance: 9, Error Rate: 0.001, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0036
+Distance: 9, Error Rate: 0.001, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0041
+Distance: 9, Error Rate: 0.001, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0040
+Distance: 9, Error Rate: 0.001, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0025
+Distance: 9, Error Rate: 0.001, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0038
+Distance: 9, Error Rate: 0.001, Hidden Size: 32, Num Layers: 4, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0054
+Distance: 9, Error Rate: 0.001, Hidden Size: 32, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0051
+Distance: 9, Error Rate: 0.001, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0022
+Distance: 9, Error Rate: 0.001, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0027
+Distance: 9, Error Rate: 0.001, Hidden Size: 64, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0036
+Distance: 9, Error Rate: 0.001, Hidden Size: 64, Num Layers: 3, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0039
+Distance: 9, Error Rate: 0.001, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0046
+Distance: 9, Error Rate: 0.001, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0028
+Distance: 9, Error Rate: 0.001, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0034
+Distance: 9, Error Rate: 0.001, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0038
+Distance: 9, Error Rate: 0.001, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0038
+Best Accuracy:  0.9991803278688525 Best Hyperparameters {'distance': 9, 'error_rate': 0.001, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with distance:  10
+Starting with error rate:  0.01
+Distance: 10, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0143
+Distance: 10, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0131
+Distance: 10, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0440
+Distance: 10, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0424
+Distance: 10, Error Rate: 0.01, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0214
+Distance: 10, Error Rate: 0.01, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0219
+Distance: 10, Error Rate: 0.01, Hidden Size: 32, Num Layers: 4, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0478
+Distance: 10, Error Rate: 0.01, Hidden Size: 32, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0481
+Distance: 10, Error Rate: 0.01, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0141
+Distance: 10, Error Rate: 0.01, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0112
+Distance: 10, Error Rate: 0.01, Hidden Size: 64, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0346
+Distance: 10, Error Rate: 0.01, Hidden Size: 64, Num Layers: 3, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0368
+Distance: 10, Error Rate: 0.01, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0137
+Distance: 10, Error Rate: 0.01, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0245
+Distance: 10, Error Rate: 0.01, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0351
+Distance: 10, Error Rate: 0.01, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0331
+Distance: 10, Error Rate: 0.01, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0331
+Best Accuracy:  0.9986876640419947 Best Hyperparameters {'distance': 10, 'error_rate': 0.01, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0008}
+Starting with error rate:  0.001
+Distance: 10, Error Rate: 0.001, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0053
+Distance: 10, Error Rate: 0.001, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0019
+Distance: 10, Error Rate: 0.001, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0067
+Distance: 10, Error Rate: 0.001, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0072
+Distance: 10, Error Rate: 0.001, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0068
+Distance: 10, Error Rate: 0.001, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0049
+Distance: 10, Error Rate: 0.001, Hidden Size: 32, Num Layers: 4, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0069
+Distance: 10, Error Rate: 0.001, Hidden Size: 32, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0065
+Distance: 10, Error Rate: 0.001, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0015
+Distance: 10, Error Rate: 0.001, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0016
+Distance: 10, Error Rate: 0.001, Hidden Size: 64, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0055
+Distance: 10, Error Rate: 0.001, Hidden Size: 64, Num Layers: 3, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0058
+Distance: 10, Error Rate: 0.001, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0032
+Distance: 10, Error Rate: 0.001, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0038
+Distance: 10, Error Rate: 0.001, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0048
+Distance: 10, Error Rate: 0.001, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0052
+Distance: 10, Error Rate: 0.001, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0052
+Best Accuracy:  0.9994750656167979 Best Hyperparameters {'distance': 10, 'error_rate': 0.001, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with distance:  11
+Starting with error rate:  0.01
+Distance: 11, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0133
+Distance: 11, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0147
+Distance: 11, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0441
+Distance: 11, Error Rate: 0.01, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0472
+Distance: 11, Error Rate: 0.01, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0167
+Distance: 11, Error Rate: 0.01, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0281
+Distance: 11, Error Rate: 0.01, Hidden Size: 32, Num Layers: 4, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0393
+Distance: 11, Error Rate: 0.01, Hidden Size: 32, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0386
+Distance: 11, Error Rate: 0.01, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0099
+Distance: 11, Error Rate: 0.01, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0144
+Distance: 11, Error Rate: 0.01, Hidden Size: 64, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0243
+Distance: 11, Error Rate: 0.01, Hidden Size: 64, Num Layers: 3, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0230
+Distance: 11, Error Rate: 0.01, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0128
+Distance: 11, Error Rate: 0.01, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0124
+Distance: 11, Error Rate: 0.01, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0367
+Distance: 11, Error Rate: 0.01, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0371
+Distance: 11, Error Rate: 0.01, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0371
+Best Accuracy:  0.997939262472885 Best Hyperparameters {'distance': 11, 'error_rate': 0.01, 'hidden_size': 64, 'num_layers': 4, 'lr': 0.01, 'weight_decay': 0.0008}
+Starting with error rate:  0.001
+Distance: 11, Error Rate: 0.001, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0017
+Distance: 11, Error Rate: 0.001, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0028
+Distance: 11, Error Rate: 0.001, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0061
+Distance: 11, Error Rate: 0.001, Hidden Size: 32, Num Layers: 3, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0051
+Distance: 11, Error Rate: 0.001, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0020
+Distance: 11, Error Rate: 0.001, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0015
+Distance: 11, Error Rate: 0.001, Hidden Size: 32, Num Layers: 4, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0072
+Distance: 11, Error Rate: 0.001, Hidden Size: 32, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0051
+Distance: 11, Error Rate: 0.001, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0006
+Distance: 11, Error Rate: 0.001, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0016
+Distance: 11, Error Rate: 0.001, Hidden Size: 64, Num Layers: 3, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0044
+Distance: 11, Error Rate: 0.001, Hidden Size: 64, Num Layers: 3, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0047
+Distance: 11, Error Rate: 0.001, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0039
+Distance: 11, Error Rate: 0.001, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0023
+Distance: 11, Error Rate: 0.001, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0005, Epoch: 100, Loss: 0.0039
+Distance: 11, Error Rate: 0.001, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0049
+Distance: 11, Error Rate: 0.001, Hidden Size: 64, Num Layers: 4, LR: 0.001, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0049
+Best Accuracy:  0.9996746203904555 Best Hyperparameters {'distance': 11, 'error_rate': 0.001, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+best_accuracy, best_hyperparameters
+0.9996746203904555 {'distance': 11, 'error_rate': 0.001, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+
+
+Best Accuracy:  0.9982758620689656 Best Hyperparameters {'distance': 3, 'error_rate': 0.01, 'hidden_size': 16, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0001}
+Best Accuracy:  0.9946058091286307 Best Hyperparameters {'distance': 8, 'error_rate': 0.01, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.993859649122807 Best Hyperparameters {'distance': 4, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0001}
+Best Accuracy:  0.9933609958506224 Best Hyperparameters {'distance': 8, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0001}
+Best Accuracy:  0.992817679558011 Best Hyperparameters {'distance': 7, 'error_rate': 0.01, 'hidden_size': 16, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9925414364640884 Best Hyperparameters {'distance': 7, 'error_rate': 0.02, 'hidden_size': 16, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9924812030075187 Best Hyperparameters {'distance': 6, 'error_rate': 0.01, 'hidden_size': 16, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9921052631578947 Best Hyperparameters {'distance': 4, 'error_rate': 0.01, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0001}
+Best Accuracy:  0.9894736842105263 Best Hyperparameters {'distance': 6, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9893258426966293 Best Hyperparameters {'distance': 5, 'error_rate': 0.01, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9865168539325843 Best Hyperparameters {'distance': 5, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9810344827586207 Best Hyperparameters {'distance': 3, 'error_rate': 0.02, 'hidden_size': 32, 'num_layers': 2, 'lr': 0.01, 'weight_decay': 0.0005}
+
+Best Accuracy:  0.9996746203904555 Best Hyperparameters {'distance': 11, 'error_rate': 0.001, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9994750656167979 Best Hyperparameters {'distance': 10, 'error_rate': 0.001, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9991803278688525 Best Hyperparameters {'distance': 9, 'error_rate': 0.001, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9986876640419947 Best Hyperparameters {'distance': 10, 'error_rate': 0.01, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0008}
+Best Accuracy:  0.997939262472885 Best Hyperparameters {'distance': 11, 'error_rate': 0.01, 'hidden_size': 64, 'num_layers': 4, 'lr': 0.01, 'weight_decay': 0.0008}
+Best Accuracy:  0.9973770491803279 Best Hyperparameters {'distance': 9, 'error_rate': 0.01, 'hidden_size': 64, 'num_layers': 4, 'lr': 0.01, 'weight_decay': 0.0008}
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Starting with distance:  3
+Starting with error rate:  0.05
+Distance: 3, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1270
+Distance: 3, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1176
+Distance: 3, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1947
+Distance: 3, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1822
+Distance: 3, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1922
+Distance: 3, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2000
+Distance: 3, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1444
+Distance: 3, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1443
+Distance: 3, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1992
+Distance: 3, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1949
+Distance: 3, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2281
+Distance: 3, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2281
+Distance: 3, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1117
+Distance: 3, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.0935
+Distance: 3, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1841
+Distance: 3, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1954
+Distance: 3, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2001
+Distance: 3, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1922
+Distance: 3, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1515
+Distance: 3, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1459
+Distance: 3, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2277
+Distance: 3, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1951
+Distance: 3, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2283
+Distance: 3, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2024
+Distance: 3, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2024
+Best Accuracy:  0.9568965517241379 Best Hyperparameters {'distance': 3, 'error_rate': 0.05, 'hidden_size': 32, 'num_layers': 4, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with error rate:  0.1
+Distance: 3, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2725
+Distance: 3, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2765
+Distance: 3, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.3918
+Distance: 3, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.3940
+Distance: 3, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.4166
+Distance: 3, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4182
+Distance: 3, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.3110
+Distance: 3, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.3006
+Distance: 3, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.4373
+Distance: 3, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4600
+Distance: 3, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.4617
+Distance: 3, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4617
+Distance: 3, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2538
+Distance: 3, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2495
+Distance: 3, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.4110
+Distance: 3, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4096
+Distance: 3, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.4122
+Distance: 3, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4185
+Distance: 3, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2580
+Distance: 3, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2830
+Distance: 3, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.4358
+Distance: 3, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4378
+Distance: 3, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.4233
+Distance: 3, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4233
+Distance: 3, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4233
+Best Accuracy:  0.9189655172413793 Best Hyperparameters {'distance': 3, 'error_rate': 0.1, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with error rate:  0.2
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5277
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5334
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6168
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6098
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6659
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6517
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5629
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5616
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7097
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7138
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7157
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7157
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5055
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4983
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6349
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6470
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6502
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6645
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5470
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5246
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6998
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6806
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7157
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6803
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6803
+Best Accuracy:  0.8413793103448276 Best Hyperparameters {'distance': 3, 'error_rate': 0.2, 'hidden_size': 32, 'num_layers': 4, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with distance:  4
+Starting with error rate:  0.05
+Distance: 4, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1539
+Distance: 4, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1219
+Distance: 4, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2091
+Distance: 4, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1845
+Distance: 4, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2579
+Distance: 4, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2295
+Distance: 4, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1492
+Distance: 4, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1575
+Distance: 4, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2461
+Distance: 4, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2434
+Distance: 4, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2594
+Distance: 4, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2679
+Distance: 4, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1137
+Distance: 4, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1025
+Distance: 4, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1687
+Distance: 4, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2061
+Distance: 4, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2338
+Distance: 4, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2339
+Distance: 4, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1531
+Distance: 4, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1162
+Distance: 4, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2346
+Distance: 4, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2641
+Distance: 4, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2683
+Distance: 4, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2679
+Distance: 4, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2679
+Best Accuracy:  0.968421052631579 Best Hyperparameters {'distance': 4, 'error_rate': 0.05, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0008}
+Starting with error rate:  0.1
+Distance: 4, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2399
+Distance: 4, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2314
+Distance: 4, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2665
+Distance: 4, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.3001
+Distance: 4, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.4024
+Distance: 4, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.3580
+Distance: 4, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2680
+Distance: 4, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2652
+Distance: 4, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.3905
+Distance: 4, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4257
+Distance: 4, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.4027
+Distance: 4, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4271
+Distance: 4, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2165
+Distance: 4, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2183
+Distance: 4, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2704
+Distance: 4, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.3078
+Distance: 4, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.3827
+Distance: 4, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.3966
+Distance: 4, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2153
+Distance: 4, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2233
+Distance: 4, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.3866
+Distance: 4, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.3694
+Distance: 4, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.4271
+Distance: 4, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4271
+Distance: 4, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4271
+Best Accuracy:  0.9201754385964912 Best Hyperparameters {'distance': 4, 'error_rate': 0.1, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with error rate:  0.2
+Distance: 4, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5454
+Distance: 4, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5503
+Distance: 4, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6070
+Distance: 4, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6377
+Distance: 4, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7029
+Distance: 4, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7173
+Distance: 4, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5646
+Distance: 4, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5573
+Distance: 4, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7362
+Distance: 4, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7362
+Distance: 4, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7388
+Distance: 4, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7060
+Distance: 4, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5065
+Distance: 4, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5143
+Distance: 4, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6110
+Distance: 4, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6092
+Distance: 4, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6921
+Distance: 4, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6980
+Distance: 4, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5149
+Distance: 4, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5196
+Distance: 4, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7016
+Distance: 4, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7030
+Distance: 4, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7388
+Distance: 4, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7388
+Distance: 4, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7388
+Best Accuracy:  0.8219298245614035 Best Hyperparameters {'distance': 4, 'error_rate': 0.2, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with distance:  5
+Starting with error rate:  0.05
+Distance: 5, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1366
+Distance: 5, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1270
+Distance: 5, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1718
+Distance: 5, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1755
+Distance: 5, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2331
+Distance: 5, Error Rate: 0.05, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2614
+Distance: 5, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1374
+Distance: 5, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1321
+Distance: 5, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2242
+Distance: 5, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2449
+Distance: 5, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2650
+Distance: 5, Error Rate: 0.05, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2650
+Distance: 5, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1177
+Distance: 5, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1211
+Distance: 5, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1783
+Distance: 5, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1626
+Distance: 5, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2197
+Distance: 5, Error Rate: 0.05, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2410
+Distance: 5, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.1276
+Distance: 5, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.1228
+Distance: 5, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2417
+Distance: 5, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2641
+Distance: 5, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2450
+Distance: 5, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2626
+Distance: 5, Error Rate: 0.05, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2626
+Best Accuracy:  0.9713483146067415 Best Hyperparameters {'distance': 5, 'error_rate': 0.05, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with error rate:  0.1
+Distance: 5, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2960
+Distance: 5, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2789
+Distance: 5, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.3516
+Distance: 5, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.3791
+Distance: 5, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.3690
+Distance: 5, Error Rate: 0.1, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.3825
+Distance: 5, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2888
+Distance: 5, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.3109
+Distance: 5, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.3975
+Distance: 5, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.3948
+Distance: 5, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.4192
+Distance: 5, Error Rate: 0.1, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4192
+Distance: 5, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2463
+Distance: 5, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2407
+Distance: 5, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.3485
+Distance: 5, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.3167
+Distance: 5, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.3833
+Distance: 5, Error Rate: 0.1, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4070
+Distance: 5, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.2372
+Distance: 5, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.2672
+Distance: 5, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.4100
+Distance: 5, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4009
+Distance: 5, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.4071
+Distance: 5, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4192
+Distance: 5, Error Rate: 0.1, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.4192
+Best Accuracy:  0.9241573033707865 Best Hyperparameters {'distance': 5, 'error_rate': 0.1, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with error rate:  0.2
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5430
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5896
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6199
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6417
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6796
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6800
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5701
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5847
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6799
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6796
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6893
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7234
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5259
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5227
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6161
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6314
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6842
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6752
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5684
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5590
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6971
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.05, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6895
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7234
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7093
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7093
+Best Accuracy:  0.8365168539325842 Best Hyperparameters {'distance': 5, 'error_rate': 0.2, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0008}
+best_accuracy, best_hyperparameters
+0.8365168539325842 {'distance': 5, 'error_rate': 0.2, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0008}
+
+
+Best Accuracy:  0.9713483146067415 Best Hyperparameters {'distance': 5, 'error_rate': 0.05, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.968421052631579 Best Hyperparameters {'distance': 4, 'error_rate': 0.05, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0008}
+Best Accuracy:  0.9568965517241379 Best Hyperparameters {'distance': 3, 'error_rate': 0.05, 'hidden_size': 32, 'num_layers': 4, 'lr': 0.01, 'weight_decay': 0.0005}
+
+Best Accuracy:  0.9241573033707865 Best Hyperparameters {'distance': 5, 'error_rate': 0.1, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9201754385964912 Best Hyperparameters {'distance': 4, 'error_rate': 0.1, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.9189655172413793 Best Hyperparameters {'distance': 3, 'error_rate': 0.1, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+
+Best Accuracy:  0.8413793103448276 Best Hyperparameters {'distance': 3, 'error_rate': 0.2, 'hidden_size': 32, 'num_layers': 4, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.8365168539325842 Best Hyperparameters {'distance': 5, 'error_rate': 0.2, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0008}
+Best Accuracy:  0.8219298245614035 Best Hyperparameters {'distance': 4, 'error_rate': 0.2, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Starting with distance:  3
+Starting with error rate:  0.2
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5853
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5805
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7077
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7090
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6151
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6270
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7506
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7506
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6635
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6569
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7506
+Distance: 3, Error Rate: 0.2, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7507
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5521
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5480
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7090
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7085
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6230
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5596
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7506
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7505
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6653
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6570
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7505
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7505
+Distance: 3, Error Rate: 0.2, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7505
+Best Accuracy:  0.846551724137931 Best Hyperparameters {'distance': 3, 'error_rate': 0.2, 'hidden_size': 64, 'num_layers': 5, 'lr': 0.01, 'weight_decay': 0.0008}
+Starting with error rate:  0.3
+Distance: 3, Error Rate: 0.3, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7994
+Distance: 3, Error Rate: 0.3, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.8031
+Distance: 3, Error Rate: 0.3, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9491
+Distance: 3, Error Rate: 0.3, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9436
+Distance: 3, Error Rate: 0.3, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.8567
+Distance: 3, Error Rate: 0.3, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.8224
+Distance: 3, Error Rate: 0.3, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9774
+Distance: 3, Error Rate: 0.3, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9773
+Distance: 3, Error Rate: 0.3, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.8703
+Distance: 3, Error Rate: 0.3, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.8720
+Distance: 3, Error Rate: 0.3, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9773
+Distance: 3, Error Rate: 0.3, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9773
+Distance: 3, Error Rate: 0.3, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7644
+Distance: 3, Error Rate: 0.3, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7635
+Distance: 3, Error Rate: 0.3, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9440
+Distance: 3, Error Rate: 0.3, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9446
+Distance: 3, Error Rate: 0.3, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.8132
+Distance: 3, Error Rate: 0.3, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.8114
+Distance: 3, Error Rate: 0.3, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9773
+Distance: 3, Error Rate: 0.3, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9623
+Distance: 3, Error Rate: 0.3, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.8636
+Distance: 3, Error Rate: 0.3, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9098
+Distance: 3, Error Rate: 0.3, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9773
+Distance: 3, Error Rate: 0.3, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9773
+Distance: 3, Error Rate: 0.3, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9773
+Best Accuracy:  0.7344827586206897 Best Hyperparameters {'distance': 3, 'error_rate': 0.3, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0008}
+Starting with error rate:  0.4
+Distance: 3, Error Rate: 0.4, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9599
+Distance: 3, Error Rate: 0.4, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9516
+Distance: 3, Error Rate: 0.4, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.0834
+Distance: 3, Error Rate: 0.4, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.0842
+Distance: 3, Error Rate: 0.4, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9679
+Distance: 3, Error Rate: 0.4, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9607
+Distance: 3, Error Rate: 0.4, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1077
+Distance: 3, Error Rate: 0.4, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1077
+Distance: 3, Error Rate: 0.4, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 1.0321
+Distance: 3, Error Rate: 0.4, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 1.0210
+Distance: 3, Error Rate: 0.4, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1077
+Distance: 3, Error Rate: 0.4, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1077
+Distance: 3, Error Rate: 0.4, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9345
+Distance: 3, Error Rate: 0.4, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9215
+Distance: 3, Error Rate: 0.4, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1077
+Distance: 3, Error Rate: 0.4, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1077
+Distance: 3, Error Rate: 0.4, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9666
+Distance: 3, Error Rate: 0.4, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9529
+Distance: 3, Error Rate: 0.4, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1077
+Distance: 3, Error Rate: 0.4, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1077
+Distance: 3, Error Rate: 0.4, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 1.0768
+Distance: 3, Error Rate: 0.4, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 1.0180
+Distance: 3, Error Rate: 0.4, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1077
+Distance: 3, Error Rate: 0.4, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1077
+Distance: 3, Error Rate: 0.4, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1077
+Best Accuracy:  0.6517241379310345 Best Hyperparameters {'distance': 3, 'error_rate': 0.4, 'hidden_size': 64, 'num_layers': 4, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with distance:  5
+Starting with error rate:  0.2
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5898
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5916
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6914
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6883
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6180
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6172
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7051
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7262
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6632
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6684
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7262
+Distance: 5, Error Rate: 0.2, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7262
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5390
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5404
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7034
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6892
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5859
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5658
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7262
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7262
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6584
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6884
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7262
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7262
+Distance: 5, Error Rate: 0.2, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7262
+Best Accuracy:  0.8028089887640449 Best Hyperparameters {'distance': 5, 'error_rate': 0.2, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with error rate:  0.3
+Distance: 5, Error Rate: 0.3, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7997
+Distance: 5, Error Rate: 0.3, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7863
+Distance: 5, Error Rate: 0.3, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9219
+Distance: 5, Error Rate: 0.3, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9233
+Distance: 5, Error Rate: 0.3, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.8518
+Distance: 5, Error Rate: 0.3, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.8446
+Distance: 5, Error Rate: 0.3, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9489
+Distance: 5, Error Rate: 0.3, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9489
+Distance: 5, Error Rate: 0.3, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.8624
+Distance: 5, Error Rate: 0.3, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.8684
+Distance: 5, Error Rate: 0.3, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9489
+Distance: 5, Error Rate: 0.3, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9489
+Distance: 5, Error Rate: 0.3, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7761
+Distance: 5, Error Rate: 0.3, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7770
+Distance: 5, Error Rate: 0.3, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9242
+Distance: 5, Error Rate: 0.3, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9235
+Distance: 5, Error Rate: 0.3, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.8356
+Distance: 5, Error Rate: 0.3, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.8043
+Distance: 5, Error Rate: 0.3, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9489
+Distance: 5, Error Rate: 0.3, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9489
+Distance: 5, Error Rate: 0.3, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.8546
+Distance: 5, Error Rate: 0.3, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.8685
+Distance: 5, Error Rate: 0.3, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9489
+Distance: 5, Error Rate: 0.3, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9489
+Distance: 5, Error Rate: 0.3, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9489
+Best Accuracy:  0.7275280898876404 Best Hyperparameters {'distance': 5, 'error_rate': 0.3, 'hidden_size': 32, 'num_layers': 4, 'lr': 0.01, 'weight_decay': 0.0008}
+Starting with error rate:  0.4
+Distance: 5, Error Rate: 0.4, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9710
+Distance: 5, Error Rate: 0.4, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9881
+Distance: 5, Error Rate: 0.4, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.0776
+Distance: 5, Error Rate: 0.4, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.0827
+Distance: 5, Error Rate: 0.4, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 1.0062
+Distance: 5, Error Rate: 0.4, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 1.0083
+Distance: 5, Error Rate: 0.4, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1053
+Distance: 5, Error Rate: 0.4, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.0928
+Distance: 5, Error Rate: 0.4, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 1.0411
+Distance: 5, Error Rate: 0.4, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 1.0317
+Distance: 5, Error Rate: 0.4, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1053
+Distance: 5, Error Rate: 0.4, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1053
+Distance: 5, Error Rate: 0.4, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9708
+Distance: 5, Error Rate: 0.4, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9604
+Distance: 5, Error Rate: 0.4, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1053
+Distance: 5, Error Rate: 0.4, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1053
+Distance: 5, Error Rate: 0.4, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9851
+Distance: 5, Error Rate: 0.4, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9795
+Distance: 5, Error Rate: 0.4, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1053
+Distance: 5, Error Rate: 0.4, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1053
+Distance: 5, Error Rate: 0.4, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 1.0341
+Distance: 5, Error Rate: 0.4, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 1.0314
+Distance: 5, Error Rate: 0.4, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1053
+Distance: 5, Error Rate: 0.4, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1053
+Distance: 5, Error Rate: 0.4, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1053
+Best Accuracy:  0.6314606741573033 Best Hyperparameters {'distance': 5, 'error_rate': 0.4, 'hidden_size': 64, 'num_layers': 5, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with distance:  7
+Starting with error rate:  0.2
+Distance: 7, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5336
+Distance: 7, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5427
+Distance: 7, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6714
+Distance: 7, Error Rate: 0.2, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6409
+Distance: 7, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5751
+Distance: 7, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5596
+Distance: 7, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6753
+Distance: 7, Error Rate: 0.2, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6976
+Distance: 7, Error Rate: 0.2, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5946
+Distance: 7, Error Rate: 0.2, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6377
+Distance: 7, Error Rate: 0.2, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6976
+Distance: 7, Error Rate: 0.2, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6871
+Distance: 7, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5017
+Distance: 7, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5109
+Distance: 7, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6611
+Distance: 7, Error Rate: 0.2, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6611
+Distance: 7, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5231
+Distance: 7, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.5225
+Distance: 7, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6976
+Distance: 7, Error Rate: 0.2, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6756
+Distance: 7, Error Rate: 0.2, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.5958
+Distance: 7, Error Rate: 0.2, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6065
+Distance: 7, Error Rate: 0.2, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.6976
+Distance: 7, Error Rate: 0.2, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6976
+Distance: 7, Error Rate: 0.2, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.6976
+Best Accuracy:  0.830939226519337 Best Hyperparameters {'distance': 7, 'error_rate': 0.2, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Starting with error rate:  0.3
+Distance: 7, Error Rate: 0.3, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7843
+Distance: 7, Error Rate: 0.3, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.8147
+Distance: 7, Error Rate: 0.3, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9122
+Distance: 7, Error Rate: 0.3, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9130
+Distance: 7, Error Rate: 0.3, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.8230
+Distance: 7, Error Rate: 0.3, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.8326
+Distance: 7, Error Rate: 0.3, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9378
+Distance: 7, Error Rate: 0.3, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9377
+Distance: 7, Error Rate: 0.3, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.8740
+Distance: 7, Error Rate: 0.3, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.8697
+Distance: 7, Error Rate: 0.3, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9378
+Distance: 7, Error Rate: 0.3, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9377
+Distance: 7, Error Rate: 0.3, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7726
+Distance: 7, Error Rate: 0.3, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.7699
+Distance: 7, Error Rate: 0.3, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9378
+Distance: 7, Error Rate: 0.3, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9190
+Distance: 7, Error Rate: 0.3, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.7942
+Distance: 7, Error Rate: 0.3, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.8052
+Distance: 7, Error Rate: 0.3, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9378
+Distance: 7, Error Rate: 0.3, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9377
+Distance: 7, Error Rate: 0.3, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.8716
+Distance: 7, Error Rate: 0.3, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.8676
+Distance: 7, Error Rate: 0.3, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9378
+Distance: 7, Error Rate: 0.3, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9377
+Distance: 7, Error Rate: 0.3, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9377
+Best Accuracy:  0.7254143646408839 Best Hyperparameters {'distance': 7, 'error_rate': 0.3, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0008}
+Starting with error rate:  0.4
+Distance: 7, Error Rate: 0.4, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9974
+Distance: 7, Error Rate: 0.4, Hidden Size: 32, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 1.0004
+Distance: 7, Error Rate: 0.4, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1147
+Distance: 7, Error Rate: 0.4, Hidden Size: 32, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.0981
+Distance: 7, Error Rate: 0.4, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 1.0257
+Distance: 7, Error Rate: 0.4, Hidden Size: 32, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 1.0446
+Distance: 7, Error Rate: 0.4, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1147
+Distance: 7, Error Rate: 0.4, Hidden Size: 32, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1060
+Distance: 7, Error Rate: 0.4, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 1.0659
+Distance: 7, Error Rate: 0.4, Hidden Size: 32, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 1.0590
+Distance: 7, Error Rate: 0.4, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1147
+Distance: 7, Error Rate: 0.4, Hidden Size: 32, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1147
+Distance: 7, Error Rate: 0.4, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9738
+Distance: 7, Error Rate: 0.4, Hidden Size: 64, Num Layers: 3, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9773
+Distance: 7, Error Rate: 0.4, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1147
+Distance: 7, Error Rate: 0.4, Hidden Size: 64, Num Layers: 3, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1147
+Distance: 7, Error Rate: 0.4, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 0.9972
+Distance: 7, Error Rate: 0.4, Hidden Size: 64, Num Layers: 4, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 0.9981
+Distance: 7, Error Rate: 0.4, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1147
+Distance: 7, Error Rate: 0.4, Hidden Size: 64, Num Layers: 4, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1147
+Distance: 7, Error Rate: 0.4, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0005, Epoch: 100, Loss: 1.0559
+Distance: 7, Error Rate: 0.4, Hidden Size: 64, Num Layers: 5, LR: 0.01, Weight Decay: 0.0008, Epoch: 100, Loss: 1.0492
+Distance: 7, Error Rate: 0.4, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0005, Epoch: 100, Loss: 1.1147
+Distance: 7, Error Rate: 0.4, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1147
+Distance: 7, Error Rate: 0.4, Hidden Size: 64, Num Layers: 5, LR: 0.1, Weight Decay: 0.0008, Epoch: 100, Loss: 1.1147
+Best Accuracy:  0.6287292817679558 Best Hyperparameters {'distance': 7, 'error_rate': 0.4, 'hidden_size': 32, 'num_layers': 5, 'lr': 0.01, 'weight_decay': 0.0008}
+best_accuracy, best_hyperparameters
+0.6287292817679558 {'distance': 7, 'error_rate': 0.4, 'hidden_size': 32, 'num_layers': 5, 'lr': 0.01, 'weight_decay': 0.0008}
+
+
+
+Best Accuracy:  0.846551724137931 Best Hyperparameters {'distance': 3, 'error_rate': 0.2, 'hidden_size': 64, 'num_layers': 5, 'lr': 0.01, 'weight_decay': 0.0008}
+Best Accuracy:  0.830939226519337 Best Hyperparameters {'distance': 7, 'error_rate': 0.2, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.8028089887640449 Best Hyperparameters {'distance': 5, 'error_rate': 0.2, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.7344827586206897 Best Hyperparameters {'distance': 3, 'error_rate': 0.3, 'hidden_size': 32, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0008}
+Best Accuracy:  0.7275280898876404 Best Hyperparameters {'distance': 5, 'error_rate': 0.3, 'hidden_size': 32, 'num_layers': 4, 'lr': 0.01, 'weight_decay': 0.0008}
+Best Accuracy:  0.7254143646408839 Best Hyperparameters {'distance': 7, 'error_rate': 0.3, 'hidden_size': 64, 'num_layers': 3, 'lr': 0.01, 'weight_decay': 0.0008}
+Best Accuracy:  0.6517241379310345 Best Hyperparameters {'distance': 3, 'error_rate': 0.4, 'hidden_size': 64, 'num_layers': 4, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.6314606741573033 Best Hyperparameters {'distance': 5, 'error_rate': 0.4, 'hidden_size': 64, 'num_layers': 5, 'lr': 0.01, 'weight_decay': 0.0005}
+Best Accuracy:  0.6287292817679558 Best Hyperparameters {'distance': 7, 'error_rate': 0.4, 'hidden_size': 32, 'num_layers': 5, 'lr': 0.01, 'weight_decay': 0.0008}
